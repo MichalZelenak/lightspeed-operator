@@ -343,7 +343,7 @@ spec:
         - name: url
           value: https://github.com/konflux-ci/konflux-operator-tasks
         - name: revision
-          value: 08e032a2457241fa9c3fdfc14e67780095986e2d
+          value: ed71517dcc3d08454641675782c51fa48fc233b4
         - name: pathInRepo
           value: task/fips-operator-bundle-check-oci-ta/0.1/fips-operator-bundle-check-oci-ta.yaml
         resolver: git
